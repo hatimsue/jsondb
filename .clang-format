@@ -1,0 +1,4 @@
+BasedOnStyle: Google  # You can choose another style if preferred
+IndentWidth: 4
+UseTab: Never
+AccessModifierOffset: -1

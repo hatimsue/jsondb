@@ -1,0 +1,14 @@
+build/
+include/
+lib/
+.cache/
+**/*.out
+data/
+data*/**
+localtest/
+run.sh
+test.sh
+scann.sh
+pod.yaml
+.vscode/
+.scannerwork/

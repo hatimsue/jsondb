@@ -1,0 +1,57 @@
+[
+{
+  "directory": "/home/clay/jsondb/build",
+  "command": "/usr/bin/c++   -I/home/clay/jsondb/build/_deps/nlohmann_json-src/include   -fprofile-arcs -ftest-coverage   -std=gnu++17 -o CMakeFiles/jsondb.dir/src/jsondb.cpp.o -c /home/clay/jsondb/src/jsondb.cpp",
+  "file": "/home/clay/jsondb/src/jsondb.cpp"
+},
+{
+  "directory": "/home/clay/jsondb/build/tests",
+  "command": "/usr/bin/c++   -I/home/clay/jsondb/src -I/home/clay/jsondb/build/_deps/nlohmann_json-src/include -isystem /home/clay/jsondb/build/_deps/googletest-src/googletest/include -isystem /home/clay/jsondb/build/_deps/googletest-src/googletest   -fprofile-arcs -ftest-coverage -g   -std=gnu++17 -o CMakeFiles/jsondbTests.dir/ComparisonUtilsTest.cpp.o -c /home/clay/jsondb/tests/ComparisonUtilsTest.cpp",
+  "file": "/home/clay/jsondb/tests/ComparisonUtilsTest.cpp"
+},
+{
+  "directory": "/home/clay/jsondb/build/tests",
+  "command": "/usr/bin/c++   -I/home/clay/jsondb/src -I/home/clay/jsondb/build/_deps/nlohmann_json-src/include -isystem /home/clay/jsondb/build/_deps/googletest-src/googletest/include -isystem /home/clay/jsondb/build/_deps/googletest-src/googletest   -fprofile-arcs -ftest-coverage -g   -std=gnu++17 -o CMakeFiles/jsondbTests.dir/JsonDBTest.cpp.o -c /home/clay/jsondb/tests/JsonDBTest.cpp",
+  "file": "/home/clay/jsondb/tests/JsonDBTest.cpp"
+},
+{
+  "directory": "/home/clay/jsondb/build/tests",
+  "command": "/usr/bin/c++   -I/home/clay/jsondb/src -I/home/clay/jsondb/build/_deps/nlohmann_json-src/include -isystem /home/clay/jsondb/build/_deps/googletest-src/googletest/include -isystem /home/clay/jsondb/build/_deps/googletest-src/googletest   -fprofile-arcs -ftest-coverage -g   -std=gnu++17 -o CMakeFiles/jsondbTests.dir/MatchQueryTest.cpp.o -c /home/clay/jsondb/tests/MatchQueryTest.cpp",
+  "file": "/home/clay/jsondb/tests/MatchQueryTest.cpp"
+},
+{
+  "directory": "/home/clay/jsondb/build/tests",
+  "command": "/usr/bin/c++   -I/home/clay/jsondb/src -I/home/clay/jsondb/build/_deps/nlohmann_json-src/include -isystem /home/clay/jsondb/build/_deps/googletest-src/googletest/include -isystem /home/clay/jsondb/build/_deps/googletest-src/googletest   -fprofile-arcs -ftest-coverage -g   -std=gnu++17 -o CMakeFiles/jsondbTests.dir/OtherTest.cpp.o -c /home/clay/jsondb/tests/OtherTest.cpp",
+  "file": "/home/clay/jsondb/tests/OtherTest.cpp"
+},
+{
+  "directory": "/home/clay/jsondb/build/tests",
+  "command": "/usr/bin/c++   -I/home/clay/jsondb/src -I/home/clay/jsondb/build/_deps/nlohmann_json-src/include -isystem /home/clay/jsondb/build/_deps/googletest-src/googletest/include -isystem /home/clay/jsondb/build/_deps/googletest-src/googletest   -fprofile-arcs -ftest-coverage -g   -std=gnu++17 -o CMakeFiles/jsondbTests.dir/TableTest.cpp.o -c /home/clay/jsondb/tests/TableTest.cpp",
+  "file": "/home/clay/jsondb/tests/TableTest.cpp"
+},
+{
+  "directory": "/home/clay/jsondb/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/c++   -isystem /home/clay/jsondb/build/_deps/googletest-src/googlemock/include -isystem /home/clay/jsondb/build/_deps/googletest-src/googlemock -isystem /home/clay/jsondb/build/_deps/googletest-src/googletest/include -isystem /home/clay/jsondb/build/_deps/googletest-src/googletest   -fprofile-arcs -ftest-coverage   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++17 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/clay/jsondb/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/home/clay/jsondb/build/_deps/googletest-src/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/clay/jsondb/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/c++   -I/home/clay/jsondb/build/_deps/googletest-src/googlemock/include -I/home/clay/jsondb/build/_deps/googletest-src/googlemock -isystem /home/clay/jsondb/build/_deps/googletest-src/googletest/include -isystem /home/clay/jsondb/build/_deps/googletest-src/googletest   -fprofile-arcs -ftest-coverage   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++17 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/clay/jsondb/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/home/clay/jsondb/build/_deps/googletest-src/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/clay/jsondb/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/c++   -isystem /home/clay/jsondb/build/_deps/googletest-src/googletest/include -isystem /home/clay/jsondb/build/_deps/googletest-src/googletest   -fprofile-arcs -ftest-coverage   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++17 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/clay/jsondb/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/home/clay/jsondb/build/_deps/googletest-src/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/clay/jsondb/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/c++   -I/home/clay/jsondb/build/_deps/googletest-src/googletest/include -I/home/clay/jsondb/build/_deps/googletest-src/googletest   -fprofile-arcs -ftest-coverage   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++17 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/clay/jsondb/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/home/clay/jsondb/build/_deps/googletest-src/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/clay/jsondb/build/examples",
+  "command": "/usr/bin/c++   -I/home/clay/jsondb/include -I/home/clay/jsondb/build/_deps/nlohmann_json-src/include   -fprofile-arcs -ftest-coverage   -std=gnu++17 -o CMakeFiles/basic.dir/basic.cpp.o -c /home/clay/jsondb/examples/basic.cpp",
+  "file": "/home/clay/jsondb/examples/basic.cpp"
+}
+]
